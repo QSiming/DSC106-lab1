@@ -8,5 +8,19 @@ body {
   margin: auto;
   padding: 1em;
 
+  nav ul,
+  nav li {
+    display: contents;
+  }
+
+  nav {
+    display: flex;
+  }
+
+  nav a {
+    flex: 1;
+  }
+
+
 
 }
