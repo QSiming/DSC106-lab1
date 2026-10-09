@@ -124,5 +124,14 @@ h6 {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 2em;
+    
     }
-   
+
+.cv-grid ul {
+  display: grid;
+  row-gap: 0.75em;
+}
+
+.cv-grid h3 {
+  font-size: 1em;
+}
